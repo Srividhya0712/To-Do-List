@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# IDE config
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
